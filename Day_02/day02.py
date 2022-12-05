@@ -29,7 +29,7 @@ def day02_1():
     return score
 
 
-def day02_1():
+def day02_2():
     file = open("Day_02/input")
     score = 0
     val = [[],[]]
